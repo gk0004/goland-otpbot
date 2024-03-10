@@ -11,7 +11,7 @@ import (
 )
 
 var NGROK_URL string = "https://golandbotapi.herokuapp.com"
-var BOT_TOKEN string = ""
+var BOT_TOKEN string = "6930374082:AAEcmmltk8G5JDe6ri8qNrdf0CRx1qDbJRA"
 
 func main() {
 
