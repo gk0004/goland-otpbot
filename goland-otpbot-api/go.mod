@@ -1,4 +1,4 @@
-module github.com/USERNAME/goland-otpbot-api
+module github.com/gk0004/goland-otpbot/
 
 go 1.17
 
